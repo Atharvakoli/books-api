@@ -20,7 +20,7 @@ let books = [
 ];
 
 function getAllBooks() {
-  return games;
+  return books;
 }
 
 function getBookById(id) {
